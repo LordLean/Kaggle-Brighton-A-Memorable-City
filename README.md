@@ -12,3 +12,5 @@ Memorable vs. not memorable binary classification task. Provided is:
 Each data instance is represented as a 4608 dimensional feature vector. This vector is a concatenation of 4096 dimensional deep Convolutional Neural Networks (CNNs) features extracted from the fc7 activation layer of CaffeNet and 512 dimensional GIST features.
 
 Training data was collected in brighton whereas test data was collected in London.
+
+This was an inclass competition for undergrad module G6061 and postgraduate module 934G5 for the University of Sussex. Final leaderboard score: 24/387.
